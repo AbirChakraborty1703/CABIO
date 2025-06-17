@@ -1,17 +1,17 @@
 **1. Project Overview**
    
-**Project Title: **
+**Project Title:**
 
-**Cabio – Real-Time Ride Management and User Dashboard System **
+**Cabio – Real-Time Ride Management and User Dashboard System**
 
-**Background & Problem Statement: **
+**Background & Problem Statement:**
 
 Modern urban commuting requires real-time interaction between users and ride 
 providers. Existing systems often lack smooth real-time coordination, robust 
 dashboards, and social integration features. SkillX aims to fill this gap with a dynamic 
 backend using WebSockets, user dashboards, and interactive maps.
 
-**Objective: **
+**Objective:**
 
 To develop a scalable platform that allows users to register, request rides, and interact 
 in real time with captains (drivers), supported by an interactive dashboard and 
@@ -50,14 +50,14 @@ Team & Roles:
 
  
  
-**3. Software Requirements Specification (SRS) **
+**3. Software Requirements Specification (SRS)**
 
 Introduction & Purpose: 
 
 This SRS defines the requirements for the SkillX project—a web platform for user 
 and ride management with real-time features. 
 
-**System Overview: **
+**System Overview:**
 
 A Node.js backend with RESTful routes and socket-based communication powers the 
 ride logic. Users and captains interact with the server, while the frontend (if present) 
@@ -70,7 +70,7 @@ User Characteristics:
 
 ⚫ Admins (optional) 
 
-**Functional Requirements: **
+**Functional Requirements:**
 
 ⚫ User signup/login/logout 
 
@@ -98,14 +98,3 @@ Constraints & Assumptions:
 
 ⚫ Real-time services depend on stable WebSocket connections 
 
-**TEAM MEMBERS 
- 
-ABHINAVA GHOSH :       22CS011006 
-
-ABIR CHAKRABORTY :     22CS011007 
-
-ANOMIT PAL :           22CS011021 
-
-ARPAN SARKHEL:         22CS011039 
-
-ATIN SINGHA:           22CS011046  **
